@@ -6,4 +6,4 @@
 Feladatunk egy olyan kávézó weboldal létrehozása a *Lucky kávézó* számára, amely modern, reszponzív weboldal, és a legfrisebb HTML5 és CSS3 szabványt használja.
 3 Weboldal részt készítettünk összesen, mindegyik külön megadott téma alapján készült.
 
-Github Pages Weboldal: [Ide katt!](https://aigyuri.github.io/sulicucc/)
+Github Pages Weboldal: [Ide katt!](https://AIGyuri.github.io/sulicucc/)
