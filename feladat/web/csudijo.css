@@ -1,0 +1,78 @@
+nav {
+    font-weight: 500;
+}
+
+html{
+    line-height: 1.8;
+}
+
+#fejlec {
+    background-image: url(kepek/etterem.jpg);
+    height: 100vh;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+}
+
+.motto{
+    font-size: 24px;
+}
+
+#rolunk img{
+    max-width: 100%;
+
+}
+
+#fejlec h1
+  {
+    font-size: 6em;
+    font-weight: 300;
+  }
+#fejlec p {
+    color: white;
+    font-size: 3em;
+    font-weight: 300;
+  }
+
+#rolunk h2 {
+    font-weight: 300
+}
+
+#rolunk p{
+    font-weight: 300
+}
+
+
+
+section {
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 15px;
+}
+
+a:link,
+a:visited {
+    color: rgb(236, 236, 236);
+    ;
+}
+
+a:hover,
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.card {
+    height: 100% !important;
+}
+
+.szurke-hatter {
+    background-color: rgb(236, 236, 236);
+}
+
+.kapcsolat{
+    width: 2;
+}
+
