@@ -1,0 +1,114 @@
+
+Az internet ma már olyan, mint a villany-, a víz-, vagy a telefonszolgáltatás. Azaz közmű. S bár az interneteről kifejezetten úgy gondolkodunk, hogy napjaink terméke, modernitásunk szimbóluma, a gyökerei mégis régebbiek, mint sokan gondolnák. Ha pedig hozzátesszük, hogy a néhai szovjet hatalom nélkül tán létre sem jött volna, remélhetőleg már elegendő érvet adtunk története megismeréséhez. Akit azonban az internet jelenlegi történései, tendenciái érdekelnek, csak klikkeljen az oldal tetején az Internet trendek feliratra!
+
+
+1957 – 1958
+A Szovjetunió 1957. október 4-én fellövi az első mesterséges holdat, a Szputnyikot. Az Egyesült Államok kormánya válaszul a Pentagon fennhatósága alatt a következő évben létrehozza (hivatalos megfogalmazás szerint) a tudományos technikai eredmények katonai célú felhasználásának előmozdítására a Fejlett Kutatási Projektek Ügynökségét (Advanced Research Projects Agency), az ARPA-t.
+
+1966
+Megalkotják az első ARPANET tervet.
+
+1970
+Létrejön az első távolsági kapcsolat az AT&T vonalain az UCLA és a BBN technológiai kutatóközpont között 56 kbps-os sávszélességen. A második vonal is kiépül az MIT és az Utahi Egyetem között.
+
+1971
+A BBN egy olyan terminált fejleszt ki, amely lehetővé teszi, hogy a hálózatba kötött gépek a korábbi négy helyett akár hatvannégy külső kapcsolatot is létesítsenek. Közben Ray Tomlinson a BBN-nél feltalálja az e-mailt.
+
+1972
+Tomlinson bevezeti a @ jel használatát az elektronikus levelek címzésében.
+Larry Roberts megírja az első e-mail management programot, amely lehetővé teszi a ma is jól ismert funkciók használatát: fogadás, küldés, válasz, továbbítás.
+
+1973
+Létrejön az első nemzetközi kapcsolat az ARPANET-tel: sikerül elérni a norvég Norsar-on keresztül a University College of London-t.
+
+1976
+Erzsébet angol kiránynő elküldi az első e-mailt a Royal Signals and Radar Establishment (RSRE) malverni központjából.
+
+1979
+Kevin MacKenzie április 12-én egy hírcsoport e-mailben javasolja, hogy a levelezésben a hangulatot kifejező jelezéseket. Az úgynevezett emoticon-ok – például ez :) vagy :( ez – ettől kezdve szélsebesen terjednek.
+
+1982
+A DCA és az ARPA befejezi a Transmission Control Protocol (TCP) valamint az Internet Protocol (IP) egy rendszerben való egyesítését, s létrejön a TCP\IP szabvány.
+
+1983
+A University of Wisconsin-on kifejlesztik a name server-t, így a felhasználónak nem kell többé tudnia a pontos elérési útvonalat, ha egy másik rendszerhez kíván csatlakozni, elég ha a böngészőprogramba beírják az elérni kívánt weboldal nevét.
+
+1985
+A Symbolic.com március 15-én a világon elsőként bejegyzett domain lesz. Az elsők között jegyezték még be a következőket cmu.edu, purdue-edu, rice.edu, berkley.edu, ucla.edu, rutgers.edu, bbn.com, mit.edu, think.com, css.gov, mitre.org.uk.
+
+1987
+Kapcsolatot hoznak létre Németország és Kína között. Az első kínai e-mailt szeptember 20-án adják fel.
+
+1988
+Jarkko Oikarinen kifejleszti az Internet Relay Chat-et (IRC).
+
+1989
+A hostok, a weboldalakat tároló számítógépek száma átlépi a 100 ezret.
+
+1990
+Az ARPANET befejezi tevékenységét.
+Visszavonhatatlanul beköszönt az online korszak, amikor az world.std.com bejelenti a világ első előfizethető betárcsázásos (dial-up) internet-szolgáltatását.
+A világ első távvezérelt számítógépe felkapcsolódik a hálózatra.
+
+1991
+Paul Lindner és Mark P. McCahill jóvoltából megszületik a Gopher, a világ első keresőrendszere a hálózaton.
+Tim Berners-Lee vezetésével a CERN bejelenti a World Wide Web-et (www).
+Az NSFNET-en keresztül Magyarország csatlakozik az Internethez.
+
+1992
+A hostok száma eléri az egymilliót.
+Jean Armour Polly leírja a kifejezést: Szörfözni az Interneten.
+
+1993
+A Fehérház felkapcsolódik a hálózatra: http://www.whitehouse.gov
+Az elnök e-mail címe: president@whitehouse.gov
+Az ENSZ ugyancsak a hálózathoz kapcsolódik: http://www.un.org 
+A Mosaic kereső forradalmasítja az internet-használatot.
+Megszólalnak az első internet-rádiók.
+Az Internet forgalma egy év alatt 341634 százalékkal nő.
+
+1994
+Arizonában a Canter & Siegel cég kiküldi az első kereskedelmi spam-et, amikor egy lottó szolgáltatást reklámoz e-mail-en keresztül.
+Már lehet online pizzát rendelni a Pizza Hut-tól.
+Megnyílik az első tisztán virtuális bank.
+Közzéteszik az első banner hirdetéseket a hotwired.com honlapján. Az egyik a Zima nevű üdítőitalt, a másik az AT&T szolgáltatásait hirdette.
+A top 10 domains a hostok száma szerint: com, edu, uk, gov, de, ca, mil, au, org, net.
+
+1995
+A Sun május 23-án bejelenti a JAVA-t.
+A RealAudio előáll az úgynevezett audio streaming technológiával, amely lehetővé teszi a hálózaton valós időben hallható audió anyagok közzétételét.
+Tőzsdére megy a Netscape és tömegek indulnak utána.
+A Vatican is felkapcsolódik a világhálóra:http://www.vatican.va
+
+1997
+Kitör és hosszú évekig folyik majd a böngésző-háború, amelynek két fő harcosa a Netscape és a Microsoft.
+
+1998
+A Web méretét az első negyedév végén 275 és 320 millió oldal közé teszik.
+A postai elektronikus pecsét valósággá válik.
+Olyan kifejezések és technológiák jelennek meg, mint az e-commerce, az e-auction vagy a portál.
+
+1999
+Egy amerikai bíróság kimondja, hogy a domain nevek a kereskedelmi védjegyekhez hasonlóan valóságos vagyont jelentenek.
+Megkezdődik az MP3 forradalom.
+
+2000
+Megjelenik az ASP (Application Service Provider – internetes technológiai szolgáltató) fogalma, s mindent elsöprően az érdeklődés középpontjába kerül a Napster zenei fájlcserélő és vele a peer to peer technológia.
+
+2001
+A VeriSign bejelentés szerint a jövőben mindenki a nemzeti nyelvnek megfelelő módon írhatja le domain nevét.
+
+2002
+Magyarországon is elismerik az internetes levéltitkot, s bűncselekménnyé nyilvánították a hackelést. A választási kampányban a pártok jelentős mértékben felhasználták a politikai tartalommal szerteküldött e-maileket.
+
+2003
+A blog lesz a sláger, azaz egyre többen írnak nyilvános internetes naplót.
+A levélforgalomban a spam mennyisége felülmúlja a legális küldeményekét.
+A férgek, vírusok és más elektronikus kártevők elárasztották az internetet, a számítógép-felhasználókat kemény védekezésre kényszerítve.
+Az iraki háború fejleményei miatt elszaporodnak az interneten a terrorista-site-ok.
+
+2004
+Széles körben elterjednek a fájlcserélő rendszerek fizetős és így legális változatai.
+A digitális fotózás forradalma az interneten is jelentős változásokat hoz: a tároláshoz, a feldolgozáshoz és a tartalom szétosztásához minden segítség elérhető a hálózaton.
+Folytatódik a Google által kiváltott keresőforradalom: az új szolgáltatásokkal a csatlakozó weboldalak kereskedelmileg hasznosítható információkat nyerhetnek látogatóikról.
+A hostok száma megközelíti a 300 milliót.
